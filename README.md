@@ -22,7 +22,7 @@ src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gi
 - 👨‍💻 All of my projects are available at
 [https://github.com/DevAhmedKhalil](https://github.com/DevAhmedKhalil?tab=repositories)
 - 💬 Ask me about **javascript, node.js**
-- 📫 How to reach me **dev.akhalil01@gmail.com**
+- 📫 How to reach me **akhalil0101@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
