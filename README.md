@@ -11,13 +11,6 @@ src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gi
   <a href="https://github.com/DevAhmedKhalil?tab=repositories"><img src="https://readme-typing-svg.herokuapp.com/?lines=web-developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=devahmedkhalil&label=Profile%20views&color=0e75b6&style=flat"
-    alt="devahmedkhalil"
-  />
-</p>
-
 - 🌱 I’m currently learning MERN stack **Node.js, Express, MongoDB, ...**
 - 👨‍💻 All of my projects are available at
 [https://github.com/DevAhmedKhalil](https://github.com/DevAhmedKhalil?tab=repositories)
