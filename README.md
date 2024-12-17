@@ -4,18 +4,18 @@
   align="right"
   alt="Coding"
   width="340"
-src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"
+  src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"
 />
 
 <p align="right">
   <a href="https://github.com/DevAhmedKhalil?tab=repositories"><img src="https://readme-typing-svg.herokuapp.com/?lines=web-developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
+- 🌍 You can also check out my personal website: [My Website](https://devahmedkhalil.github.io/AK-Portfolio-Website/)
+- 👨‍💻 All of my projects are available at [My Projects](https://github.com/DevAhmedKhalil?tab=repositories)
+- 📫 How to reach me: [reach me](mailto:akhalil0101@gmail.com)
 - 🌱 I’m currently learning MERN stack **Node.js, Express, MongoDB, ...**
-- 👨‍💻 All of my projects are available at
-[https://github.com/DevAhmedKhalil](https://github.com/DevAhmedKhalil?tab=repositories)
 - 💬 Ask me about **javascript, node.js**
-- 📫 How to reach me **akhalil0101@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
