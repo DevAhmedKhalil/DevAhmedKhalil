@@ -214,8 +214,8 @@
 <p>
   <img
     align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=devahmedkhalil"
-    alt="devahmedkhalil"
+    src="https://nirzak-streak-stats.vercel.app/?user=DevAhmedKhalil"
+    alt="GitHub Streak"
   />
 </p>
 <p>
