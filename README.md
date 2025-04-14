@@ -25,27 +25,11 @@
       height="30"
       width="40"
   /></a>
-  <a href="https://fb.com/akhalil0101" target="blank"
+  <a href="https://fb.com/dev.ahmedkhalil/" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="https://www.facebook.com/akhalil0101"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://www.instagram.com/akhalil0101/" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="https://www.instagram.com/akhalil0101/"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://twitter.com/akhalil0101" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="akhalil0101"
       height="30"
       width="40"
   /></a>
